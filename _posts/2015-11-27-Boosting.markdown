@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Boosting"
+permalink: "boosting.html"
+date:   2015-11-27
+categories: jekyll update
+---
+
+Boosting is a way of using a weak learner to come up with a stronger hypothesis. It does this by reweighting it's given distribution $$\mathcal{D}$$ so that the examples that it got wrong count for more.
+
